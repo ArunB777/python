@@ -1,7 +1,7 @@
 import secrets
 import string
 
-
+n
 def generate_password(length):
     # Define the possible characters for the password
     letters = string.ascii_letters
